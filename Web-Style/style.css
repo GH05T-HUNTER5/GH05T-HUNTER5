@@ -1,0 +1,11 @@
+* {
+padding: 0px;
+margin: 0px;
+}
+body {
+color: red;
+background-color: black;
+}
+p {
+color: green;
+}
