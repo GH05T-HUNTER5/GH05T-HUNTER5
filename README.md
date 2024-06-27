@@ -22,7 +22,7 @@ Our comprehensive services include:
 
 ## Contact Us
 
-For inquiries or collaborations, please contact us at [GH05T-HUNTER5@SUPPORT.COM](mailto: mrfidal@proton.me).
+For inquiries or collaborations, please contact us at [gh05t-hunter5@support.com](mailto:mrfidal@proton.me).
 
 ## Mission Statement
 
