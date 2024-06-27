@@ -1,6 +1,6 @@
 # GH05T-HUNTER5
 
-![GH05T-HUNTER5 Logo](logo.png)
+![GH05T-HUNTER5 Logo](https://avatars.githubusercontent.com/u/108191615?v=4)
 
 ## About Us
 
