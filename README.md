@@ -2,6 +2,18 @@
 
 ![GH05T-HUNTER5 Logo](https://avatars.githubusercontent.com/u/108191615?v=4)
 
+<a href="#"><img
+                                src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GH05T-HUNTER5&layout=compact&theme=chartreuse-dark"
+		  width="400" title="Most Used Languages">
+  </a>
+</p>
+
+ <p align='center'>
+                <a href="#"><img
+                                src="https://github-readme-streak-stats.herokuapp.com?user=GH05T-HUNTER5&theme=dark"
+                                width="400" title="Github Streak Stats"></a>
+	</p>
+    
 ## About Us
 
 GH05T-HUNTER5 is a leading provider of eco-friendly cyber security solutions, committed to protecting digital environments while minimizing our carbon footprint.
