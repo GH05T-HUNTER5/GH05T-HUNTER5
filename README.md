@@ -2,6 +2,12 @@
 
 ![GH05T-HUNTER5 Logo](https://avatars.githubusercontent.com/u/108191615?v=4)
 
+<p align='center'>
+		<a href="#"><img
+				src="https://github-readme-stats.vercel.app/api?username=GH05T-HUNTER5&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"
+				width="400" title="Adarsh Addee's Github Starts"></a>
+	</p>
+ 
 <a href="#"><img
                                 src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GH05T-HUNTER5&layout=compact&theme=chartreuse-dark"
 		  width="400" title="Most Used Languages">
@@ -13,32 +19,6 @@
                                 src="https://github-readme-streak-stats.herokuapp.com?user=GH05T-HUNTER5&theme=dark"
                                 width="400" title="Github Streak Stats"></a>
 	</p>
-    
-## About Us
-
-GH05T-HUNTER5 is a leading provider of eco-friendly cyber security solutions, committed to protecting digital environments while minimizing our carbon footprint.
-
-## Eco-Friendly Commitment
-
-At GH05T-HUNTER5, we integrate sustainable practices into our operations:
-- **Green Data Centers:** Utilizing energy-efficient servers and infrastructure.
-- **Carbon Offsetting:** Partnering with initiatives to offset our carbon emissions.
-- **Paperless Operations:** Minimizing paper use through digital processes.
-
-## Services
-
-Our comprehensive services include:
-- **Penetration Testing:** Rigorous assessments to identify vulnerabilities.
-- **Secure Development:** Building robust and sustainable cyber solutions.
-- **Consulting:** Expert advice on integrating eco-friendly practices into cybersecurity strategies.
-
-## Contact Us
-
-For inquiries or collaborations, please contact us at [gh05t-hunter5@support.com](mailto:mrfidal@proton.me).
-
-## Mission Statement
-
-GH05T-HUNTER5 is dedicated to pioneering eco-friendly cyber security innovations that safeguard our clients' digital assets with integrity and professionalism.
 
 ## Connect with Us
 
