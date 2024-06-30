@@ -4,20 +4,20 @@
 
 <p align='center'>
 		<a href="#"><img
-				src="https://github-readme-stats.vercel.app/api?username=GH05T-HUNTER5&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"
-				width="400" title="Adarsh Addee's Github Starts"></a>
+				src="https://github-readme-stats.vercel.app/api?username=GH05T-HUNTER5&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=6500"
+				width="400" ></a>
 	</p>
  
 <a href="#"><img
                                 src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GH05T-HUNTER5&layout=compact&theme=chartreuse-dark"
-		  width="400" title="Most Used Languages">
+		  width="400" >
   </a>
 </p>
 
  <p align='center'>
                 <a href="#"><img
                                 src="https://github-readme-streak-stats.herokuapp.com?user=GH05T-HUNTER5&theme=dark"
-                                width="400" title="Github Streak Stats"></a>
+                                width="400" ></a>
 	</p>
 
 ## Connect with Us
